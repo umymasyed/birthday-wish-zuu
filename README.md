@@ -7,12 +7,7 @@ A beautiful and simple React + TypeScript application to send personalized birth
 ## 🌟 Live Preview
 
 
- https://birthday-wish-zuu.vercel.app/
-
----
-
-
-
+ 
 ---
 
 ## 🛠 Tech Stack
