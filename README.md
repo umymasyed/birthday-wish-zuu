@@ -6,14 +6,12 @@ A beautiful and simple React + TypeScript application to send personalized birth
 
 ## 🌟 Live Preview
 
-> 🔗 [Add your live deployment link here once deployed]  
-> e.g. https://birthday-wish-zuu.vercel.app/
+
+ https://birthday-wish-zuu.vercel.app/
 
 ---
 
-## 📸 Screenshot
 
-![App Preview](./public/placeholder.jpg)
 
 ---
 
